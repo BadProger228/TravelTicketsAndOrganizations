@@ -1,7 +1,7 @@
-# Travel Ticket Manager
+# TravelTicketsAndOrganizations
 
 ## Description
-**Travel Ticket Manager** is a WinForms desktop application designed for managing travel tickets and the companies that issue them. The system allows users to register travel companies, associate travel tickets with those companies, and specify the number of tickets issued. The program also calculates the total cost of all tickets based on the unit price of each ticket.
+**TravelTicketsAndOrganization** is a WinForms desktop application designed for managing travel tickets and the companies that issue them. The system allows users to register travel companies, associate travel tickets with those companies, and specify the number of tickets issued. The program also calculates the total cost of all tickets based on the unit price of each ticket.
 
 ## Features
 - Add and manage travel companies.
